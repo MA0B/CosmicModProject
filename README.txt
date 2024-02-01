@@ -1,5 +1,5 @@
 # CosmicMod
-
+<img src="https://i.imgur.com/sgWH8pH.jpeg" alt="CosmicMod Logo">
 ![CosmicMod Logo](https://i.imgur.com/sgWH8pH.jpeg)
 
 **CosmicMod** é um mod empolgante para o Minecraft que adiciona uma variedade de itens e recursos cósmicos, expandindo as possibilidades e a experiência de jogo no universo do Minecraft.
