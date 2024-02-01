@@ -1,46 +1,41 @@
+# CosmicMod
 
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+![CosmicMod Logo](cosmicmod_logo.png)
 
-Note also that the patches are built against "un-renamed" MCP source code (aka
-SRG Names) - this means that you will not be able to read them directly against
-normal code.
+**CosmicMod** é um mod empolgante para o Minecraft que adiciona uma variedade de itens e recursos cósmicos, expandindo as possibilidades e a experiência de jogo no universo do Minecraft.
 
-Setup Process:
-==============================
+## Características Principais
 
-Step 1: Open your command-line and browse to the folder where you extracted the zip file.
+- **Exploração Cósmica:** Descubra novos planetas, luas e estrelas no vasto cosmos do Minecraft.
+  
+- **Itens Exclusivos:** Adquira e utilize itens cósmicos poderosos para melhorar suas aventuras e enfrentar desafios incríveis.
 
-Step 2: You're left with a choice.
-If you prefer to use Eclipse:
-1. Run the following command: `./gradlew genEclipseRuns`
-2. Open Eclipse, Import > Existing Gradle Project > Select Folder 
-   or run `gradlew eclipse` to generate the project.
+- **Novas Criaturas:** Encontre criaturas misteriosas e poderosas que habitam os cantos mais distantes do espaço.
 
-If you prefer to use IntelliJ:
-1. Open IDEA, and import project.
-2. Select your build.gradle file and have it import.
-3. Run the following command: `./gradlew genIntellijRuns`
-4. Refresh the Gradle Project in IDEA if required.
+- **Construções Espaciais:** Construa bases espaciais incríveis para estabelecer seu domínio no cosmos.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can 
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-(this does not affect your code) and then start the process again.
+## Instalação
 
-Mapping Names:
-=============================
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/MinecraftForge/MCPConfig/blob/master/Mojang.md
+1. **Baixe o Mod:**
+   - [CosmicMod - Última Versão]
 
-Additional Resources: 
-=========================
-Community Documentation: https://docs.minecraftforge.net/en/latest/gettingstarted/
-LexManos' Install Video: https://youtu.be/8VEdtQLuLO0
-Forge Forums: https://forums.minecraftforge.net/
-Forge Discord: https://discord.minecraftforge.net/
+2. **Instale o Mod:**
+   - Certifique-se de ter o [Forge Mod Loader](https://files.minecraftforge.net/) instalado.
+   - Copie o arquivo do mod para a pasta "mods" em seu diretório Minecraft.
+
+3. **Inicie o Jogo:**
+   - Abra o Minecraft com o perfil Forge e aproveite as novas experiências cósmicas!
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tem ideias, sugestões ou encontrou algum problema, sinta-se à vontade para [abrir uma issue](link_para_issues) ou enviar um pull request.
+
+## Licença
+
+Este mod é distribuído sob a [Licença MIT](LICENSE.txt). Consulte o arquivo `LICENSE.txt` para obter mais detalhes.
+
+## Contato
+
+- Email: morrice016@outlook.com
+
+Divirta-se explorando o cosmos com CosmicMod! 🚀✨
