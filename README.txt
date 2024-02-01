@@ -1,4 +1,4 @@
-# CosmicMod
+CosmicMod
 <img src="https://i.imgur.com/sgWH8pH.jpeg" alt="CosmicMod Logo">
 ![CosmicMod Logo](https://i.imgur.com/sgWH8pH.jpeg)
 
